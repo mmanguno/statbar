@@ -1,4 +1,6 @@
 venv/
 .vscode/
 
+config.yaml
+
 __pycache__/
